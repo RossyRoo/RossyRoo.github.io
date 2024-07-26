@@ -1,0 +1,33 @@
+:root
+{
+    /* COLOR THEME*/
+    --color1 : #A6249D;
+    --color2 : #6E278C;
+    --color3 : #1D0440;
+    --color4 : #D98032;
+    --color5 : #A62D2D;
+    --color6 : #CFB28C;
+}
+
+h1,h2,h3
+{
+    color: var(--color1);
+}
+
+
+p
+{
+    color: var(--color6);
+}
+
+body
+{
+    color: var(--color6);
+    background-color: var(--color3);
+}
+
+a
+{
+    color: var(--color4);
+}
+
